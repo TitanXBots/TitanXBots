@@ -37,6 +37,8 @@
 <p align="center">
 <a href="https://telegram.me/TitanOwner"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
+<img align="center" alt="Coding" width="400" src="https://telegra.ph/file/5cd4d667cafedaf21c981.jpg">
+
 <p align="left">
 <b>Tʜᴀɴᴋʏᴏᴜ Fᴏʀ Vɪsɪᴛɪɴɢ Mʏ Pʀᴏғɪʟᴇ 😊</b>
 </p>
