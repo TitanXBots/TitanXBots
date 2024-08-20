@@ -1,5 +1,5 @@
   <a href="https://github.com/TitanXBots/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Titan+X+Bots&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Titan+X+Bots&font=Fira%20SemiBold&center=true&width=480&height=45&color=FF0000&vCenter=true&pause=1000&size=40" /></a>
 </p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐌𝐲+𝐆𝐢𝐭𝐇𝐮𝐛+𝐏𝐫𝐨𝐟𝐢𝐥𝐞;𝐌𝐲+𝐍𝐚𝐦𝐞+𝐈𝐬+𝐘𝐚𝐬𝐡;𝐈+𝐀𝐦+𝐍𝐨𝐭+𝐀+𝐏𝐫𝐨+𝐈𝐧+𝐂𝐨𝐝𝐢𝐧𝐠;𝐈+𝐃𝐨𝐧'𝐭+𝐊𝐧𝐨𝐰+𝐀𝐧𝐲𝐭𝐡𝐢𝐧𝐠+𝐈𝐧+𝐂𝐨𝐝𝐢𝐧𝐠;𝐓𝐡𝐚𝐧𝐤+𝐘𝐨𝐮!)
