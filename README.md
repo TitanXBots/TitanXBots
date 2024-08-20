@@ -1,4 +1,7 @@
-# ʜɪ ᴛʜᴇʀᴇ 👋, ɪ'ᴍ ʏᴀꜱʜ
+# ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʏᴀꜱʜ ɢɪᴛʜᴜʙ ᴘʀᴏꜰɪʟᴇ👋
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
+<b>• 📚 Sᴛᴜᴅᴇɴᴛ ᴀɴᴅ sᴛɪʟʟ ʟᴇᴀʀɴɪɴɢ.</b>
 
   <a href="https://github.com/TitanXBots/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Titan+X+Bots&font=Fira%20SemiBold&center=true&width=480&height=45&color=FF0000&vCenter=true&pause=1000&size=40" /></a>
@@ -33,3 +36,7 @@
 
 <p align="center">
 <a href="https://telegram.me/TitanOwner"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+<p align="left">
+<b>Tʜᴀɴᴋʏᴏᴜ Fᴏʀ Vɪsɪᴛɪɴɢ Mʏ Pʀᴏғɪʟᴇ 😊</b>
+</p>
