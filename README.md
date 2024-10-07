@@ -19,7 +19,7 @@
 </p>
 <p align="center">
 <a href="https://instagram.com/TitanXBots"><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/TitanXBots"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.youtube.com/@TitanMattersTech"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@TitanTechMatters"><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 <br>
@@ -31,7 +31,7 @@
 ## Subscribe YouTube Channel 
 
 <h3 align="center">
-<a href="https://www.youtube.com/@TitanMattersTech">
+<a href="https://www.youtube.com/@TitanTechMatters">
     &nbsp;<img src="https://img.shields.io/badge/TitanXBots-FF0000?style=flat-square&logo=YouTube" width="200" height="30">&nbsp;
 <a href="https://www.youtube.com/@TitanMattersTech"> <img src="https://img.shields.io/youtube/channel/subscribers/UCEWm-JSe1r-2LfHJkIhtbJQ?V?label=Subscribers&style=for-the-badge&color=FF0000&labelColor=ce463"/>
 </a>
